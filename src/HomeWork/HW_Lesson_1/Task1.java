@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Main {
+public class Task1 {
 
     public static void main(String[] args) {
         int[] array = {3, 8, 4, 9, 6, 1, 5};
